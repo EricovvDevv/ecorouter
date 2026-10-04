@@ -1,3 +1,3 @@
 # Ecorouter базовая настройка эко-ролтона
-Базовая настройка экоролтон(ecorouter) - https://helzord.pw/ecorouter
+Базовая настройка экоролтон(ecorouter) - https://helzord.pw/docs/
 сайт со всеми командами для настройки
